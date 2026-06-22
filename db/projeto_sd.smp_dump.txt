@@ -1,9 +1,0 @@
-
-State Machine - |safecrackpro_top|safecrackpro_fsm:fsm_inst|state
-Name state.SENHA_ERRADA state.SENHA_CERTA state.S3 state.S2 state.S1 state.S0 
-state.S0 0 0 0 0 0 0 
-state.S1 0 0 0 0 1 1 
-state.S2 0 0 0 1 0 1 
-state.S3 0 0 1 0 0 1 
-state.SENHA_CERTA 0 1 0 0 0 1 
-state.SENHA_ERRADA 1 0 0 0 0 1 
