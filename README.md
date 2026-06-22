@@ -1,4 +1,4 @@
-# 🔐 SafeCrack Pro: Um cofre com seleção de dígitos por push buttons e displays de 7 segmentos
+# 🔐 SafeCrack Pro
 
 Projeto em SystemVerilog que implementa um cofre digital utilizando uma Máquina de Estados Finitos em FPGA. O cofre é implementado com entrada de senha via push buttons e display de 7 segmentos. 
 
